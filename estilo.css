@@ -1,0 +1,30 @@
+.ver{
+    background-color: teal;
+}
+.ame{
+    background-color: lightblue;
+    background-repeat: repeat;
+}
+.men{
+    background-image: url(imagen1.jpg);
+    font: outline;
+}
+section{
+    background-color: burlywood;
+}
+.re{
+    background-color: rgba(0, 206, 209, 0.493);
+}
+table{
+        border-collapse: collapse;
+}
+      
+table, th, td {
+        border: 1px solid black;
+        text-align: left;
+        padding: 8px;
+}
+th{
+    background-color: darkturquoise;
+}
+
